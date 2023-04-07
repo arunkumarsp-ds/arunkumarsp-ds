@@ -1,11 +1,15 @@
+
+[![MasterHead](https://thumbs.dreamstime.com/b/data-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-114218337.jpg)]
 <h1 align="center">Hi 👋, I'm Arunkumar</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdjMmQ3ZDU3ZWUxZDY0NjllYmQ4N2Q2YmVmNjJmNWI2MmZhNjM0OSZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumarsp-ds&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumarsp-ds" /> </p>
 
+- 🌱 I’m currently working on enchancing my **data analysis skills** and
+ learning **data science**
 
-- 🌱 I’m currently working on improving my **data analysis skills**
- 
-- 🌱 I’m currently learning **data science**
+- 📫 How to reach me **sparun2505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
