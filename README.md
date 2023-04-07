@@ -22,7 +22,7 @@
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F31%2FNumPy_logo_2020.svg&tbnid=ghAGPef9vrDcYM&vet=12ahUKEwihkPWKtpf-AhUM9nMBHaMfDzQQMygBegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNumPy&docid=mbaIme1UnDJhSM&w=800&h=360&q=numpy%20&ved=2ahUKEwihkPWKtpf-AhUM9nMBHaMfDzQQMygBegUIARDhAQ" alt="python" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_numpy.svg" alt="python" width="40" height="40"/> </a>
 
 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
