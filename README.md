@@ -17,7 +17,7 @@
 <p align="left"> 
 </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/> </a> 
 </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-</a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src=" https://static.wixstatic.com/media/e16c6a_3ad31c0baa1d45e88d15b1f9ed24b576~mv2.png/v1/fit/w_400%2Ch_232%2Cal_c%2Cq_80,enc_auto/file.jpg" alt="tableau" width="40" height="40"/> </a> 
+</a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="tableau" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_numpy.svg" alt="numpy" width="40" height="40"/> </a>
