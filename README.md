@@ -1,5 +1,5 @@
 
-[![MasterHead](https://thumbs.dreamstime.com/b/data-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-114218337.jpg)]
+[![MasterHead](![word_cloud_light_mode](https://github.com/user-attachments/assets/7f93864b-3a51-4e4f-b14a-b82a476e2dc1))]
 <h1 align="center">Hi 👋, I'm Arunkumar</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdjMmQ3ZDU3ZWUxZDY0NjllYmQ4N2Q2YmVmNjJmNWI2MmZhNjM0OSZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif">
